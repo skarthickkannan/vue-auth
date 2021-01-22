@@ -1,28 +1,23 @@
-This is simple auth with node express mongodb
+<p>This is simple auth with node express mongodb</p>
 
-tech used
+<h1>Tech used</h1>
 
-#heading
-<h1>Express</h1>
-<h1>Mongodb</h1>
-<h1>And more</h1>
+<h2>Express</h2>
+<h2>Mongodb</h2>
+<h2>And more</h2>
 
-##heading
-<h3>To clone https://github.com/skarthickkannan/vue-auth.git </h3> 
+<h3>To clone https://github.com/skarthickkannan/vue-auth.git </h3>
 
-###heading
 <h4>To Install</h4>
 
-``` js
+```js
 cd folder name
 ```
 
-``` js
+```js
 npm install
 ```
 
-``` js
-npm dev
+```js
+npm run dev dev
 ```
-
-
