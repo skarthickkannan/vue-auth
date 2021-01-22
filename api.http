@@ -1,0 +1,20 @@
+# signUp route
+
+POST http://localhost:5000/auth/v1/user/register
+Content-Type: application/json
+
+{
+  "username": "karthickkannan",
+  "email": "kkedits77@gmail.com",
+  "password": "8939065699@@"
+}
+
+###
+# signIn route 
+POST  http://localhost:5000/auth/v1/user/login
+Content-Type: application/json
+
+{
+  "email": "kkedits77@gmail.com",
+  "password": "8939065699@@"
+}
